@@ -24,7 +24,7 @@ Le programme se lance en mode console. Une version avec interface graphique vien
 * Entrez le SCORE TOTAL moyen obtenu lors de votre étude. Une note sera attribuée (F à A+). Ainsi que sa position comparer à l'ensemble des système évaluées par la SUS (Lewis & Sauro (2018))' 
 * Avant de renseigner les scores moyens de chaque item, précisez si vous allez rentrer les scores bruts "n" (score des items pairs non inversés) ou inversés "o. 
 * Renseignez 
-## Maintenance du logiciel
+## Maintenance du programme
 
 Il reste encore du travail pour rendre l'évaluation de l'échelle plus user-friendly :
 * Interface graphique

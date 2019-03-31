@@ -2,7 +2,7 @@ from colorama import init, Fore
 init(convert=True)
 
 print("\nSYSTEM USABILITY SCALE (SUS) : INTERPRETATEUR DE SCORE GLOBAL ET DE SCORE PAR ITEM")
-print("(Brook, 1996 ; Sauro, 2011 ; Lewis, James & Sauro, 2018) \n")
+print("(Brook, 1996 ; Sauro, 2011 ; Lewis & Sauro, 2018) \n")
 
 class Rang_sus(object):
     def __init__(self):
