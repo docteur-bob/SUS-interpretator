@@ -2,16 +2,20 @@
 
 Voici un outils qui permet de situer les scores obtenus à la System Usability Scale (SUS) par rapport aux moyennes généralement observées lors de l'évaluation de systèmes.
 Vous serez capable de comprendre si la note moyenne obtenue est une "bonne" note ou une "mauvaise" note.
-De plus, grace à cet outils, il sera possible de faire correspondre la note moyenne à chaque item avec une note globale.
+De plus, grâce à cet outils, il sera possible de faire correspondre la note moyenne à chaque item avec une note globale.
 C'est la note globale généralement associée aux systèmes obtenant cette note à l'item.
 
 ## Disclaimer
-Si j'ai crée cet outil, c'est pour permettre aux praticiens de l'UX d'améliorer leur interprétation des outils qu'ils utilisent. Le programme se fonde sur les travaux de Lewis & Sauro (2018).
-Sachez que ce n'est pas un outils diagnostique. Il vous permettra simplement de mettre en perspective les résultats des vos études et guider vos investigations futurs.
+Si j'ai créé cet outil, c'est pour permettre aux praticiens de l'UX d'améliorer leurs interprétations des outils qu'ils utilisent. Le programme se fonde sur les travaux de Lewis & Sauro (2018).
+Sachez que ce n'est pas un outil diagnostique. Il vous permettra simplement de mettre en perspective les résultats des vos études et guider vos investigations futures.
 ## Lancement du programme
+### Prérequis
+Vous devez avoir Python 3 d'installé sur votre machine. https://www.python.org/download/releases/3.0/
+Une version stand-alone avec Python intégrée est en préparation. 
 
-C'est un petit programme écrit en Python (3).
-* Téléchargez l'archive. Pour simplifier le fonctionnement, Python 3 et les dépendances nécessaires sont présentes dans l'archive.
+### Intallation
+C'est un petit programme écrit en Python (3.7).
+* Téléchargez l'archive. "Clone or Download". Puis "Download Zip".
 * Extrayez l'archive 
 * Lancez SUS.bat
 
