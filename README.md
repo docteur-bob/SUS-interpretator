@@ -1,4 +1,4 @@
-# SUS Interpretator
+# SUS Interpreter
 
 Voici un outil qui permet de situer les scores obtenus à la System Usability Scale (SUS) par rapport aux moyennes généralement observées.
 Vous serez capable de comprendre si la note moyenne obtenue est une "bonne" note ou une "mauvaise" note.
