@@ -1,9 +1,9 @@
 # SUS Interpretator
 
-Voici un outils qui permet de situer les scores obtenus à la System Usability Scale (SUS) par rapport aux moyennes généralement observées lors de l'évaluation de systèmes.
+Voici un outil qui permet de situer les scores obtenus à la System Usability Scale (SUS) par rapport aux moyennes généralement observées.
 Vous serez capable de comprendre si la note moyenne obtenue est une "bonne" note ou une "mauvaise" note.
 De plus, grâce à cet outils, il sera possible de faire correspondre la note moyenne à chaque item avec une note globale.
-C'est la note globale généralement associée aux systèmes obtenant cette note à l'item.
+C'est la note globale généralement associée aux systèmes obtenant la même note à l'item.
 
 ## Disclaimer
 Si j'ai créé cet outil, c'est pour permettre aux praticiens de l'UX d'améliorer leurs interprétations des outils qu'ils utilisent. Le programme se fonde sur les travaux de Lewis, James & Sauro (2018).
