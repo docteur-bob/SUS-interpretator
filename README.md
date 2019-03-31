@@ -1,2 +1,30 @@
-# SUS-interpretator
-A tool that aim to interprete each item of the System Usabily Scale (Brook, 1986) thank to the work of Sauro &amp; Lewis (2018)
+# SUS Interpretator
+
+Voici un outils qui permet de situer les scores obtenus à la System Usability Scale (SUS) par rapport aux moyennes généralement observées lors de l'évaluation de systèmes.
+Vous serez capable de comprendre si la note moyenne obtenue est une "bonne" note ou une "mauvaise" note.
+De plus, grace à cet outils, il sera possible de faire correspondre la note moyenne à chaque item avec une note globale.
+C'est la note globale généralement associée aux systèmes obtenant cette note à l'item.
+
+## Disclaimer
+Si j'ai crée cet outil, c'est pour permettre aux praticiens de l'UX d'améliorer leur interprétation des outils qu'ils utilisent. Le programme se fonde sur les travaux de Lewis & Sauro (2018).
+Sachez que ce n'est pas un outils diagnostique. Il vous permettra simplement de mettre en perspective les résultats des vos études et guider vos investigations futurs.
+## Lancement du programme
+
+C'est un petit programme écrit en Python (3).
+* Téléchargez l'archive. Pour simplifier le fonctionnement, Python 3 et les dépendances nécessaires sont présentes dans l'archive.
+* Extrayez l'archive 
+* Lancez SUS.bat
+
+## Utilisation 
+Le programme se lance en mode console. Une version avec interface graphique viendra dans un futur proche. 
+* Entrez le SCORE TOTAL moyen obtenu lors de votre étude. Une note sera attribuée (F à A+). Ainsi que sa position comparer à l'ensemble des système évaluées par la SUS (Lewis & Sauro (2018))' 
+
+## Maintenance du logiciel
+
+Il reste encore du travail pour rendre l'évaluation de l'échelle plus user-friendly :
+* Interface Graphique
+* Graph des echantillonages
+
+Ces modifications vont arriver selon le temps m'étant disponible ainsi que selon mes progrès en programmation.
+N'hésitez pas à utiliser le programme, le modifier et le redistribuer librement. 
+
