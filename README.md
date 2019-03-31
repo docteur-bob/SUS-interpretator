@@ -30,6 +30,7 @@ Le programme se lance en mode console. Une version avec interface graphique vien
 Il reste encore du travail pour rendre l'évaluation de l'échelle plus user-friendly :
 * Interface graphique
 * Graphe des échantillonages
+* Application web
 
 Ces modifications vont arriver selon le temps m'étant disponible ainsi que selon mes progrès en programmation.
 N'hésitez pas à utiliser le programme, le modifier et le redistribuer librement. 
