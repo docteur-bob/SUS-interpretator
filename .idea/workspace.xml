@@ -24,10 +24,19 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="289">
-                <caret line="17" column="66" lean-forward="true" selection-start-line="17" selection-start-column="66" selection-end-line="17" selection-end-column="66" />
+              <first_editor relative-caret-position="119">
+                <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SUS.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="96" column="28" lean-forward="true" selection-start-line="96" selection-start-column="28" selection-end-line="96" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -41,11 +50,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/SUS.py" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="340" />
     <option name="y" value="57" />
     <option name="width" value="1440" />
@@ -101,11 +111,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="272" y="46" width="1152" height="775" extended-state="0" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24954297" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18297587" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
@@ -134,11 +143,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/SUS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="96" column="28" lean-forward="true" selection-start-line="96" selection-start-column="28" selection-end-line="96" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="289">
-            <caret line="17" column="66" lean-forward="true" selection-start-line="17" selection-start-column="66" selection-end-line="17" selection-end-column="66" />
+          <first_editor relative-caret-position="119">
+            <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
           </first_editor>
           <second_editor />
         </state>

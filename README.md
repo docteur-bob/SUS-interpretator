@@ -6,7 +6,7 @@ De plus, grâce à cet outils, il sera possible de faire correspondre la note mo
 C'est la note globale généralement associée aux systèmes obtenant cette note à l'item.
 
 ## Disclaimer
-Si j'ai créé cet outil, c'est pour permettre aux praticiens de l'UX d'améliorer leurs interprétations des outils qu'ils utilisent. Le programme se fonde sur les travaux de Lewis & Sauro (2018).
+Si j'ai créé cet outil, c'est pour permettre aux praticiens de l'UX d'améliorer leurs interprétations des outils qu'ils utilisent. Le programme se fonde sur les travaux de Lewis, James & Sauro (2018).
 Sachez que ce n'est pas un outil diagnostique. Il vous permettra simplement de mettre en perspective les résultats des vos études et guider vos investigations futures.
 ## Lancement du programme
 ### Prérequis
@@ -22,12 +22,13 @@ C'est un petit programme écrit en Python (3.7).
 ## Utilisation 
 Le programme se lance en mode console. Une version avec interface graphique viendra dans un futur proche. 
 * Entrez le SCORE TOTAL moyen obtenu lors de votre étude. Une note sera attribuée (F à A+). Ainsi que sa position comparer à l'ensemble des système évaluées par la SUS (Lewis & Sauro (2018))' 
-
+* Avant de renseigner les scores moyens de chaque item, précisez si vous allez rentrer les scores bruts "n" (score des items pairs non inversés) ou inversés "o. 
+* Renseignez 
 ## Maintenance du logiciel
 
 Il reste encore du travail pour rendre l'évaluation de l'échelle plus user-friendly :
-* Interface Graphique
-* Graph des echantillonages
+* Interface graphique
+* Graphe des échantillonages
 
 Ces modifications vont arriver selon le temps m'étant disponible ainsi que selon mes progrès en programmation.
 N'hésitez pas à utiliser le programme, le modifier et le redistribuer librement. 
